@@ -11,5 +11,6 @@ This repository contains all of my learning workbooks, notes, projects and other
 ## Notes
 
 If you have any questions, feel free to send me an email: [marlonholland7@gmail.com](mailto:marlonholland7@gmail.com).
+
 In addition, feel free to connect with me on LinkedIn to see my professional experience: https://www.linkedin.com/in/marlon-holland/
 
